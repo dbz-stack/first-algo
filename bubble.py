@@ -1,7 +1,7 @@
 # Python program for implementation of Bubble Sort 
 
 def bubbleSort(arr): 
-	n = len(arr) 
+	n = len(arr)+1 
 
 	# Traverse through all array elements 
 	for i in range(n): 
